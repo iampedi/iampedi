@@ -1,8 +1,8 @@
 # Hi, I'm Pedram 👋
 
-Frontend Developer based in Berlin — focused on building responsive, accessible, and performant web apps using **React**, **Next.js**, and **TypeScript**.  
+Frontend Developer based in Berlin — focused on building responsive, accessible, and performant web apps using **React**, **Next.js**, and **TypeScript**.
 
-Currently open to mid-level frontend roles (remote or Berlin-based).  
+Currently open to mid-level frontend roles (remote or Berlin-based).
 
 ---
 
@@ -40,17 +40,15 @@ Currently open to mid-level frontend roles (remote or Berlin-based).
 
 ## 📍 About Me
 
-- 15+ years in web design, recently transitioned to modern frontend dev
-- Strong UI/UX sense and attention to performance & accessibility
-- Bootcamp graduate @ Ironhack Berlin, B.Sc. in Software Engineering
-- English (professional), Farsi (native), German (basic)
-- Passionate about clean code, team collaboration, and product thinking
+- 15+ years in web design, recently transitioned to modern frontend development  
+- Strong UI/UX sense and attention to performance & accessibility  
+- Bootcamp graduate @ Ironhack Berlin · B.Sc. in Software Engineering  
+- Languages: English (professional) · Farsi (native) · German (basic)  
+- Passionate about clean code, collaboration, and product thinking  
 
 ---
 
 ## 📫 Connect with me
 
-- LinkedIn: [pedramghane](https://www.linkedin.com/in/pedramghane)
-- GitHub: [github.com/pedramghane](https://github.com/pedramghane)
-- Email: p.ghane@gmail.com
-
+- [LinkedIn]([https://www.linkedin.com/in/pedramghane](https://www.linkedin.com/in/pediland/)  
+- 📧 p.ghane@gmail.com  
