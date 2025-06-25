@@ -50,5 +50,5 @@ Currently open to mid-level frontend roles (remote or Berlin-based).
 
 ## 📫 Connect with me
 
-- [LinkedIn]([https://www.linkedin.com/in/pedramghane](https://www.linkedin.com/in/pediland/)  
+- [LinkedIn](https://www.linkedin.com/in/pediland/)  
 - 📧 p.ghane@gmail.com  
