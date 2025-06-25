@@ -1,53 +1,54 @@
 # Hi, I'm Pedram 👋
 
-I'm a full-stack developer, product builder, and lifelong learner — currently based in Berlin 🇩🇪.  
-Right now I'm working on personal projects, sharpening my skills, and preparing for the tech job market in Europe.
+Frontend Developer based in Berlin — focused on building responsive, accessible, and performant web apps using **React**, **Next.js**, and **TypeScript**.  
+
+Currently open to mid-level frontend roles (remote or Berlin-based).  
 
 ---
 
-## 🔭 What I'm working on
+## 🚀 What I'm working on
 
-- 🚀 [Pickly](https://pickly-alpha.vercel.app) – a curated content platform with no likes or followers, just pure intention
-- 🎨 Personal portfolio and side projects
-- 📚 Learning advanced TypeScript, Prisma, and system design
-- 🧠 Improving soft skills for working in international teams
-
----
-
-## 🧰 My Toolbox
-
-**Languages & Frameworks**  
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` · `Prisma` · `PostgreSQL`
-
-**Tools & Technologies**  
-`Git` · `GitHub` · `Vercel` · `Figma` · `Jira` · `Zod` · `Axios` · `REST APIs` · `Radix UI` · `React Hook Form`
-
-**Previously used**  
-`PHP` · `WordPress` · `jQuery` · `Bootstrap` · `MySQL` · `Laravel` · `Vue` · `SCSS` · `Photoshop` · `Illustrator`
+- [Pickly](https://pickly-alpha.vercel.app) – a curated content platform with no likes or followers, just intention
+- Strengthening TypeScript, Prisma, and system design skills
+- Building polished UIs with Tailwind CSS and shadcn/ui
 
 ---
 
-## 🧠 Background
+## 🧰 Tech Stack
 
-- 🎓 Studied software engineering in Iran
-- 🌍 Worked across Germany, Iran, and Turkey
-- 🧑‍🏫 Taught web development in workshops and helped junior devs grow
-- 💬 Fluent in Persian 🇮🇷, working in English 🇬🇧, learning German 🇩🇪
+### Frontend  
+`React` · `Next.js (App Router)` · `JavaScript (ES6+)` · `TypeScript` · `Tailwind CSS` · `Shadcn/UI` · `Redux Toolkit` · `Context API` · `Styled Components` · `SCSS`
+
+### Testing  
+`React Testing Library` · `Cypress`
+
+### Tooling  
+`Git` · `GitHub` · `VS Code` · `Webpack` · `Vite` · `Turbopack`
+
+### Backend & APIs (Familiar)  
+`Node.js` · `Express.js` · `Fastify (basic)` · `REST APIs` · `GraphQL (basic)` · `JWT Auth` · `Swagger` · `Helmet.js` · `CORS`
+
+### Database (Familiar)  
+`MongoDB + Mongoose` · `PostgreSQL + Prisma`
+
+### Other  
+`Docker (basic)` · `Linux` · `CI/CD (basic)`
 
 ---
 
-## 🧪 Fun stuff
+## 📍 About Me
 
-- 🏃 I run (sometimes)
-- 🎥 I love making videos and tutorials
-- 🧩 I solve UX puzzles
-- 🤝 I care about people more than code
+- 15+ years in web design, recently transitioned to modern frontend dev
+- Strong UI/UX sense and attention to performance & accessibility
+- Bootcamp graduate @ Ironhack Berlin, B.Sc. in Software Engineering
+- English (professional), Farsi (native), German (basic)
+- Passionate about clean code, team collaboration, and product thinking
 
 ---
 
-## 📫 Reach me
+## 📫 Connect with me
 
 - LinkedIn: [pedramghane](https://www.linkedin.com/in/pedramghane)
-- Email: pedram [at] yourdomain.com
-- Portfolio: Coming soon...
+- GitHub: [github.com/pedramghane](https://github.com/pedramghane)
+- Email: p.ghane@gmail.com
 
