@@ -8,9 +8,11 @@ Currently open to mid-level frontend roles (remote or Berlin-based).
 
 ## 🚀 What I'm working on
 
-- [Pickly](https://pickly-alpha.vercel.app) – a curated content platform with no likes or followers, just intention
-- Strengthening TypeScript, Prisma, and system design skills
-- Building polished UIs with Tailwind CSS and shadcn/ui
+- [Pickly](https://pickly-alpha.vercel.app) – a curated content platform with no likes or followers, just intention  
+- [Fans Arena](https://fansarena.netlify.app) – a global fan ranking platform where real football fans, not just followers, register their support  
+- [Koochaa](https://koochaa.com) – a digital platform offering tailored services for Iranian immigrants around the world  
+- Strengthening TypeScript, Prisma, and system design skills  
+- Building polished UIs with Tailwind CSS and shadcn/ui  
 
 ---
 
