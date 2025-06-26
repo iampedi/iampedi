@@ -1,6 +1,6 @@
 ## Hi, I am Pedi 👋👨‍💻
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/linkedin-cover.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/linkedin.jpg)
 
 I'm a frontend developer passionate about bringing ideas to life through code. I enjoy writing clean, detail-oriented code and take pride in crafting smooth, pixel-perfect user experiences.
 
