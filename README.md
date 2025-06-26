@@ -1,12 +1,10 @@
 ## Hi, I am Pedi 👋👨‍💻
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/linkedin.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/linkedin-cover.jpg)
 
 I'm a frontend developer passionate about bringing ideas to life through code. I enjoy writing clean, detail-oriented code and take pride in crafting smooth, pixel-perfect user experiences.
 
 💼 I'm currently open to **mid-level frontend roles**, either **remote** or **based in Berlin**.
-
-<p>&nbsp;</p>
 
 ## 💻 What I'm working on:
 
@@ -15,8 +13,6 @@ I'm currently building and optimizing personal projects to apply what I've recen
 - [Pickly](https://pickly-alpha.vercel.app) – Pickly – an alternative to mainstream social media, helping users discover meaningful, curated content.
 - [Fans Arena](https://fansarena.netlify.app) – a global fan-ranking platform where true football supporters, not just casual followers, officially register their allegiance to their clubs.
 - [Koochaa](https://koochaa.com) – a global community platform supporting Iranian immigrants with personalized services and a sense of belonging.
-
-<p>&nbsp;</p>
 
 ## ⚙️ Tech Stack
 
@@ -44,8 +40,6 @@ I'm currently building and optimizing personal projects to apply what I've recen
 
 `Docker (basic)` · `Linux` · `CI/CD (basic)`
 
-<p>&nbsp;</p>
-
 ## 🌱 About Me
 
 - 🧑‍💻 Over 15 years of experience in web design, now focused on modern frontend development
@@ -56,15 +50,11 @@ I'm currently building and optimizing personal projects to apply what I've recen
 - ❤️ Side interests: community building, personal growth, and mentoring juniors
 - ⚽️ Crazy about **Manchester United**, 🍕 pizza enthusiast, and unbeatable in FIFA (well… almost 😅)
 
-<p>&nbsp;</p>
-
 ## ☕ Feel free to reach out
 
 - [LinkedIn](https://www.linkedin.com/in/pediland/)
 - p.ghane@gmail.com
 
 ---
-
-<p>&nbsp;</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
