@@ -48,6 +48,17 @@ Currently open to mid-level frontend roles (remote or Berlin-based).
 
 ---
 
+- 🔭 I’m currently working on this page.qweqwe 
+- 🌱 I’m currently learning qweqwe 
+- 👯 I’m looking to collaborate on qweqwe 
+- 🤔 I’m looking for help with qweq 
+- 💬 Ask me about qweqwe 
+- 📫 How to reach me: qweqwe 
+- 😄 Pronouns: asdad 
+- ⚡ Fun fact: dasasda
+
+---
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iampedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pediland/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedi)](https://github.com/anuraghazra/github-readme-stats)
