@@ -1,71 +1,70 @@
-# Hi, I'm Pedram 👋
+## Hi, I am Pedi 👋👨‍💻
 
-Frontend Developer based in Berlin — focused on building responsive, accessible, and performant web apps using **React**, **Next.js**, and **TypeScript**.
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](/linkedin-cover.jpg)
 
-Currently open to mid-level frontend roles (remote or Berlin-based).
+I'm a frontend developer passionate about bringing ideas to life through code. I enjoy writing clean, detail-oriented code and take pride in crafting smooth, pixel-perfect user experiences.
 
----
+💼 I'm currently open to **mid-level frontend roles**, either **remote** or **based in Berlin**.
 
-## 🚀 What I'm working on
+<p>&nbsp;</p>
 
-- [Pickly](https://pickly-alpha.vercel.app) – a curated content platform with no likes or followers, just intention  
-- [Fans Arena](https://fansarena.netlify.app) – a global fan ranking platform where real football fans, not just followers, register their support  
-- [Koochaa](https://koochaa.com) – a digital platform offering tailored services for Iranian immigrants around the world  
-- Strengthening TypeScript, Prisma, and system design skills  
-- Building polished UIs with Tailwind CSS and shadcn/ui  
+## 💻 What I'm working on:
 
----
+I'm currently building and optimizing personal projects to apply what I've recently learned, sharpen my problem-solving skills in real-world scenarios, and prepare myself for upcoming job opportunities.
 
-## 🧰 Tech Stack
+- [Pickly](https://pickly-alpha.vercel.app) – Pickly – an alternative to mainstream social media, helping users discover meaningful, curated content.
+- [Fans Arena](https://fansarena.netlify.app) – a global fan-ranking platform where true football supporters, not just casual followers, officially register their allegiance to their clubs.
+- [Koochaa](https://koochaa.com) – a global community platform supporting Iranian immigrants with personalized services and a sense of belonging.
 
-### Frontend  
-`React` · `Next.js (App Router)` · `JavaScript (ES6+)` · `TypeScript` · `Tailwind CSS` · `Shadcn/UI` · `Redux Toolkit` · `Context API` · `Styled Components` · `SCSS`
+<p>&nbsp;</p>
 
-### Testing  
+## ⚙️ Tech Stack
+
+### Frontend
+
+`React` · `Next.js (App Router)` · `JavaScript (ES6+)` · `TypeScript` · `Tailwind CSS` · `Shadcn/UI` · `Redux Toolkit` · `Context API` · `Styled Components` · `Web Performance` · `Responsive Design` · `CSS3-SCSS` · `HTML5`
+
+### Testing
+
 `React Testing Library` · `Cypress`
 
-### Tooling  
+### Tooling
+
 `Git` · `GitHub` · `VS Code` · `Webpack` · `Vite` · `Turbopack`
 
-### Backend & APIs (Familiar)  
-`Node.js` · `Express.js` · `Fastify (basic)` · `REST APIs` · `GraphQL (basic)` · `JWT Auth` · `Swagger` · `Helmet.js` · `CORS`
+### Backend & APIs (Familiar)
 
-### Database (Familiar)  
+`Node.js` · `Express.js` · `REST APIs` · `GraphQL` · `JWT & Session Auth` · `Helmet.js` · ` CORS` · `Swagger` · `Fastify ` · `Middleware `
+
+### Database (Familiar)
+
 `MongoDB + Mongoose` · `PostgreSQL + Prisma`
 
-### Other  
+### Other
+
 `Docker (basic)` · `Linux` · `CI/CD (basic)`
 
----
+<p>&nbsp;</p>
 
-## 📍 About Me
+## 🌱 About Me
 
-- 15+ years in web design, recently transitioned to modern frontend development  
-- Strong UI/UX sense and attention to performance & accessibility  
-- Bootcamp graduate @ Ironhack Berlin · B.Sc. in Software Engineering  
-- Languages: English (professional) · Farsi (native) · German (basic)  
-- Passionate about clean code, collaboration, and product thinking  
+- 🧑‍💻 Over 15 years of experience in web design, now focused on modern frontend development
+- 🎨 Strong eye for UI/UX with a passion for performance, accessibility, and clean code
+- 🎓 Graduate of the **Ironhack Web Development Bootcamp** (Berlin) · **B.Sc. in Software Engineering**
+- 🌍 Languages: **Farsi** (native), **English** (professional), **German** (basic – learning actively)
+- 🤝 Believer in collaboration, product thinking, and building things that make sense
+- ❤️ Side interests: community building, personal growth, and mentoring juniors
+- ⚽️ Crazy about **Manchester United**, 🍕 pizza enthusiast, and unbeatable in FIFA (well… almost 😅)
 
----
+<p>&nbsp;</p>
 
-- 🔭 I’m currently working on this page.qweqwe 
-- 🌱 I’m currently learning qweqwe 
-- 👯 I’m looking to collaborate on qweqwe 
-- 🤔 I’m looking for help with qweq 
-- 💬 Ask me about qweqwe 
-- 📫 How to reach me: qweqwe 
-- 😄 Pronouns: asdad 
-- ⚡ Fun fact: dasasda
+## ☕ Feel free to reach out
+
+- [LinkedIn](https://www.linkedin.com/in/pediland/)
+- p.ghane@gmail.com
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iampedi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pediland/)  
+<p>&nbsp;</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iampedi&show_icons=true&count_private=true) 
-
-## 📫 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/pediland/)  
-- 📧 p.ghane@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
