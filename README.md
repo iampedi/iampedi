@@ -13,9 +13,7 @@ I focus on execution and delivery—turning product ideas into reliable, scalabl
 
 - **[Koochaa](https://koochaa.com)** – Mobile-first Persian business directory for Iranian diaspora users (Next.js + TS + SSR + validated forms).
 - **[Fans Arena](https://fansarena.netlify.app)** – Full-stack football club directory with search + leaderboard experience (React + Express + MongoDB).
-- **[Befroosh](https://my.befroosh.app/en)** – SaaS dashboard for Instagram automation + DM commerce (Next.js App Router + Tailwind + shadcn/ui).  
-  *(Add your live link if public.)*
-
+- **[Befroosh](https://my.befroosh.app/en)** – SaaS dashboard for Instagram automation + DM commerce (Next.js App Router + Tailwind + shadcn/ui).
 ---
 
 ## ⚙️ Tech Stack
